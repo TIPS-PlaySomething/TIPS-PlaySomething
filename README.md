@@ -1,5 +1,8 @@
-## Hi there 👋
+## Two Idiots Play Something :D
 
+well actually we make stuff here...
+
+We are currently working on... NOTHING :D oops
 <!--
 **TIPS-PlaySomething/TIPS-PlaySomething** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
